@@ -1,9 +1,10 @@
 # Watson::Conversation
 [![Build Status](https://travis-ci.org/DhurimKelmendi/watson-conversation.png)](https://travis-ci.org/DhurimKelmendi/watson-conversation)
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/watson/conversation`. To experiment with that code, run `bin/console` for an interactive prompt.
+Watson Conversation allows you to quickly build, test and deploy a bot or virtual agent across mobile devices, messaging platforms like Slack or even on a physical robot. Conversation has a visual dialog builder to help you create natural conversations between your apps and users, without any coding experience required.
 
-TODO: Delete this and the text above, and describe your gem
+This gem is a Ruby client to easily interact with the IBM Watson Conversation API
+
 
 ## Installation
 
